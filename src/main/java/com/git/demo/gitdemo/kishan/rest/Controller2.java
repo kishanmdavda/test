@@ -11,6 +11,7 @@ public class Controller2 {
     public String get()
     {
         System.out.println("Controller2");
+        System.out.println("Kishan New Code");
         return "Controller2";
     }
 }
