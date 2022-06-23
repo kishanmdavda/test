@@ -14,6 +14,10 @@ public class Controller1 {
         System.out.println("kishan");
         System.out.println("Contrbnhj ji jik jooller1");
         System.out.println("dhruv");
+        System.out.println("kishan");
+        System.out.println("Contrbnhj ji jik jooller1");
+        System.out.println("dhruv");
+        System.out.println("kishan");
         return "Controller1";
     }
 
