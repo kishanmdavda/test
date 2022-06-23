@@ -13,4 +13,11 @@ public class Controller1 {
         System.out.println("Controller1");
         return "Controller1";
     }
+
+    @GetMapping("/getsd")
+    public String gettst()
+    {
+        System.out.println("Controller dp");
+        return "Controller dp";
+    }
 }
